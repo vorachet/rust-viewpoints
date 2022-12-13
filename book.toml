@@ -1,0 +1,7 @@
+[book]
+authors = ["Vorachet Jaroensawas"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust Viewpoints"
+
