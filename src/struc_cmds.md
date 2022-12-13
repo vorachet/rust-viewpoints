@@ -1,9 +1,10 @@
 # Structure of Commands
 
 ## Resources
-- [https://rust-lang.github.io/mdBook/cli/index.html](https://rust-lang.github.io/mdBook/cli/index.html)
 
-## Diagrams
+- [https://doc.rust-lang.org/cargo/commands/](https://doc.rust-lang.org/cargo/commands/)
 
-![Structure of Commands](images/StructureCommands.svg)
+## Cargo Commands
+
+![Structure of Cargo Commands](images/StructureCargoCommands.svg)
 

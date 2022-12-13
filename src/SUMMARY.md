@@ -3,4 +3,5 @@
 [Readme](README.md)
 
 - [Structures](./structures.md)
-    - [Structure of Commands](./struc_cmds.md)
+    - [Library and Binary crate](./libs_and_bins.md) 
+    - [Commands](./struc_cmds.md)
